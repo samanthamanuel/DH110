@@ -84,7 +84,7 @@ Nayeli Castro
 Nayeli just recently moved into her new apartment in Westwood (after living in the dorms for a year). She’s a second year at UCLA and originally from Texas where most of her family still resides. She has been feeling a bit homesick and misses a lot of her mother’s and grandmother’s home cooking. She never really learned how to cook for herself, so she struggles with grocery store shopping and cooking sustainable meals that get her through the week. She mostly eats instant ramen and quesadillas which are not the most balanced meals. Another problem is that she’s been feeling pretty weak with low energy. She finds herself falling asleep in between classes and struggling to walk through campus— she’s concerned that her poor diet is affecting her overall health.
 
 Alysha Macaraeg
-![Alysha](aperson.jpg)
+![Alysha](aperson.png)
 
 Alysha’s dad just passed away unexpectedly due to a heart attack. She’s a chef at a famous Filipino Fusion Restaurant located in San Diego, but is currently at home taking a bereavement leave. This experience is making her think about her relationship with her family and food. Her dad supported her dream to become a chef and most of the dishes at the restaurant are inspired by her family’s recipes which were passed down to her from her parents. She also just realized, due to her busy schedule, that she hasn’t had the time to spend with her children to teach them more about Filipino recipes and their culture. 
 

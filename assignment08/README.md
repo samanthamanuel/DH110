@@ -96,8 +96,8 @@ You can find more information on UX storytelling [here](https://github.com/saman
 # LOW-FIDELITY PROTOTYPE
 The purpose of creating and then testing this low-fidelity prototype is to reevaluate the usability of the new features that I suggested to add to this application. It also allowed me to observe the user interact with the prototype in real-time while they communicate their thoughts aloud.
 
-![Lofi1](wireframe1.png)
-![Lofi2](wireframe2.png)
+![Lofi1](taskwireflow1.png)
+![Lofi2](taskwireflow2.png)
 
 **The low-fidelity prototype I made supports the following tasks:**
 * Create a New Project (YELLOW)

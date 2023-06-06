@@ -130,7 +130,7 @@ You can find more information on the high-fidelity prototype [here](https://gith
 # FULL INTERACTIVE HIGH-FIDELITY PROTOTYPE 
 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F4KN1fCa5r7IX7vht8ZwpEG%2FDH110---With-Ingredients-that-Bind%3Fnode-id%3D77-2526%26starting-point-node-id%3D77%253A2526" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F4KN1fCa5r7IX7vht8ZwpEG%2FDH110---With-Ingredients-that-Bind%3Ftype%3Ddesign%26node-id%3D77-2526%26scaling%3Dscale-down%26page-id%3D77%253A2488%26starting-point-node-id%3D77%253A2526" allowfullscreen></iframe>
 
 
 # WIREFRAME + GRAPHIC DESIGN ELEMENT

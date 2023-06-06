@@ -27,13 +27,17 @@ My project is meant to support users to engage with their parents, grandparents,
 Currently, there are no existing products that facilitate the connection between family, food, and technology. However, there are apps that do these things separately. Remento, an app that allows you to preserve your family’s treasured memories with their conversation prompts and simple recording tools, you can consolidate your family history into a private digital library and Bublup, an app that allows you to access and share your files, but in this context, your favorite recipes from anywhere in the world. You may simply upload and digitally organize recipes with your smartphone, desktop, or tablet and you access them at any time.
 
 The two existing projects that I tested were:
+
 Remento 
-![Remento]()
+![Remento](remento.jpg)
+
 Overall Evaluation: Overall, this app is very aesthetically pleasing to look at, intuitive to use, and its prompts help to guide meaningful conversations. More importantly, it captures sentimental features of a story– emotion, facial expression, and voice. I make minor recommendations to increase user efficiency and engagement, but it is, overall, a very thoughtful app with the option of creating your own prompts. Contentwise, very compelling and beautiful to look at.
 
-(Insert Image here)
+
+
 Bublup
-![Bublup]()
+![Bublup](bublup.jpg)
+
 Overall Evaluation: Overall, Bublup, as a project management app, is helpful in that it works by saving and storing all your digital documents, specifically recipes. One of the features that Bublup offers is a way to organize and share recipes in one central location as well as archive recipes found online. Furthermore, you are able to create your own digital cookbook with a Bublup roll (aka a customized webpage). Despite being text heavy and not the most visually appealing app, it presents many capabilities and includes more personalization options (in terms of personal preference for app display) than the previous app.
 
 You can find more information on the heuristics [here](https://github.com/samanthamanuel/DH110-Spring-2023) and usability testing [here](https://github.com/samanthamanuel/DH110-Assignment-02)

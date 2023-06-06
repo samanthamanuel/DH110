@@ -96,9 +96,8 @@ You can find more information on UX storytelling [here](https://github.com/saman
 # LOW-FIDELITY PROTOTYPE
 The purpose of creating and then testing this low-fidelity prototype is to reevaluate the usability of the new features that I suggested to add to this application. It also allowed me to observe the user interact with the prototype in real-time while they communicate their thoughts aloud.
 
-![Lofi1](wireframe 1.png)
-
-![Lofi2](wireframe 2.png)
+![Lofi1](wireframe1.png)
+![Lofi2](wireframe2.png)
 
 **The low-fidelity prototype I made supports the following tasks:**
 * Create a New Project (YELLOW)
@@ -134,18 +133,24 @@ You can find more information on the high-fidelity prototype [here](https://gith
 # WIREFRAME + GRAPHIC DESIGN ELEMENT
 Feedback from my target users through graphic design element variation and impression testing was crucial to deciding my overall design scheme and aesthetic. Doing this allowed me to integrate the most inclusive and intutive design choices. Here’s what I decided upon in order of Typeface, Color, and Spacing. 
 
+
 ![typeface](typographicvariations.jpg)
+
 Typeface family and size:
 I ended up taking the suggestion to use Playfair Display, 45pt and 15pt. Initially, I used Urbanist because I thought it was the cleanest, most legible font. I though that no matter what the sizing was, it would be clear to read. For the most part, I wanted the page to be easy to read and click through, hence the decision to use 45pt and 15pt. Overall, Playfair Display is great for its editorial nature and brings added dimension to the idea of "archiving" recipes.
 
+
 ![color](colorvariations.jpg)
+
 Color Scheme:
 Background color: FFFFFF
 Text color: 000000
 Accent color: BDA3A3
 The desision to use these particular colors came from the idea of matureness and approachability. I thought the accent color I chose was bright enough but muted in order to give it a more refined look. Since people of different generations would be using this app (at least college aged and above) I picked colors that would appeal most to the particular demographic rather than making it too playful and bright.
 
-![layout]()
+
+![layout](design2.jpg)
+
 Layout grid and spacing
 For the layout grid, I used 2 columns x 8 rows. I found that this, used as a general guidline, would look more organized with all the buttons in 2 neat colums. I knew that I wanted to have 10 buttons along with the optional button to add your own category, text prompt, and navigation buttons below. This layout allowed me to take into account all the elements needed to have a functional but wholistic layout that allows the users to see everything at once without the need to scroll.
 

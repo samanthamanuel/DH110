@@ -195,7 +195,7 @@ Accessibility Audits, like the one you see below, allows us to determine whether
 
 # PITCH VIDEO
 
-You can find the link to the pitch video [here]().
+You can find the link to the pitch video [here](https://drive.google.com/file/d/1wm-IX6cSYi3JmDbO-ewwCZy6fYsbaz3S/view?usp=sharing).
 
 # CONCLUSION
 

@@ -1,6 +1,5 @@
-# PROJECT TITLE + NAME 
-## With Ingredients that Bind 
-### By Samantha Alexis Manuel 
+# With Ingredients that Bind 
+## By Samantha Alexis Manuel 
 
 
 
@@ -20,6 +19,8 @@ Requirements:
 My project focuses on preserving family traditions through recipe and food connections. For many Filipinos like me, my most cherished inheritance or heirlooms are the recipes that are passed down orally in the kitchen. Whenever I cook my Filipino food, it transforms into a moment of cultural-culinary, intergenerational connection– ever-changing rituals revised by each new generation. It helps me maintain a rootedness in my own cultural ancestry while living here in America as well as a connection to my family living in the Philippines, so I was curious to see if any apps existed to help preserve or share family recipes (or the potential of creating family memories).
 
 My project is meant to support users to engage with their parents, grandparents, or other family members through food connections and family history. I hope that through this project I can learn more about intergenerational and community connections through food– specifically intergenerational transmission and memory. I wish to understand how to engage family members in the kitchen as well as the attitudes, values, and practices towards food as an important vehicle for transmitting heritage and cultural meaning. By making these connections between family members, it could benefit to understand how a user’s memory/shared family history is provoked or embodied by food.
+
+
 
 # COMPETITOR ANALYSIS
 
@@ -104,8 +105,11 @@ To view the prototype wireflow click [here]()
 
 You can find more information on the high-fidelity prototype [here](https://github.com/samanthamanuel/DH110-Assignment07)
 
+
+
 # FULL INTERACTIVE HIGH-FIDELITY PROTOTYPE 
 (embeded here)
+
 
 
 # WIREFRAME + GRAPHIC DESIGN ELEMENT
@@ -132,7 +136,7 @@ You can find more information on the wireframes and graphic design element varia
 
 
 # EVALUATION AND REVISION HISTORY 
-Cognitive Walkthrough:
+## Cognitive Walkthrough:
 Cognitive walkthroughs are important for evaluating the usability of my app. The cognitive walkthrough was designed to see users carry out tasks or navigate the system. 
 
 Key takeways/Things to improve on:
@@ -142,7 +146,7 @@ Key takeways/Things to improve on:
 
 You can find more information for the cognitive walkthrough [here](https://docs.google.com/document/d/1Zpj8C6t6IGGubGRGi4mSWwlTNwKSuXA5kIM8rlJI7sk/edit)
 
-Impression Test:
+## Impression Test:
 The impression test is an essential part of the design phase. I asked my participant what they remembered about the design and how they felt about it/their impressions.
 
 Please access the screen/audio recording [here](https://drive.google.com/file/d/143ypF1aC2lKjegE4DpbdTxd4epHI94yu/view)
@@ -154,19 +158,16 @@ Please access the screen/audio recording [here](https://drive.google.com/file/d/
 * Shape: Liked the slighly rounded edges the most out of the 3 different shapes
 * Overall, they thought there could be more ways to improve the app with more photos or icons
 
-Accessibility Audits:
+## Accessibility Audits:
 Accessibility Audits, like the one you see below, allows us to determine whether or not a digital platform/design is reasonably accessible for users with disabilities. Running these audits allows us to identify any barriers to rectify it. As you can see, I made sure that it reaches [Level AAA](https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html) success criteria. 
 (Photo 1 - Light Mode)
 (Photo 2 - Dark Mode) 
 
-LATEST Usability testing:
-A final usability testing, incorporating comments/feedback from the cognitive walkthrough done with a group in class. You can access the video [here]().
 
 
+# PITCH VIDEO
 
-11) Pitch video [update the video after recording your presentation]
-
-12) conclusion: what you learned throughout the process
+# CONCLUSION
 
 As someone with no previous experience in UX/UI design, this was the very first time I learned how to use user-centered research and design to create an app. I learned how integral UX research is as well as the time/resources it takes to carry it out properly. I suppose I never realized how often and how iterative the process of UX/UI design is and how there are always many ways to improve accessibility, enjoyment, engagement, and efficiency. One of my key takeaways is learning how to use Figma. I never thought that through this process I would be able to hone my design skills. I can already see myself using this tool in the future. 
 If given the opportunity to continue this project, I would have loved to have done a more longitudinal study with more participants testing the product. This would be helpful for gathering more feedback. I would have also wished to have more time to really make my hi-fidelity prototype as realistic and smooth as possible. I thought that I would be making a brand-new app at first but through this process I learned that it takes a lot more time and research than I thought! That's okay though, because it helped me realize how the most successful and useful apps are well researched, designed, and thought out which helped me appreciate the content of this class even more. Given this, I relied on using existing apps to inspire my design and approach to creating the app. I just learned how to use Figma, but if I had the rest of the year to learn all the intricacies of this design app I would have definitely added more visual elements and an element of in-app messaging. It would have also been nice to add more examples of recipe templates or examples of how other users have customized their digital cookbooks. Cooking and family is really important to me– if I had the chance to do this project again, I would try to make it from scratch.

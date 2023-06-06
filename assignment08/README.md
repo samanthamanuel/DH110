@@ -179,8 +179,9 @@ Please access the screen/audio recording [here](https://drive.google.com/file/d/
 
 ## Accessibility Audits:
 Accessibility Audits, like the one you see below, allows us to determine whether or not a digital platform/design is reasonably accessible for users with disabilities. Running these audits allows us to identify any barriers to rectify it. As you can see, I made sure that it reaches [Level AAA](https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html) success criteria. 
-(Photo 1 - Light Mode)
-(Photo 2 - Dark Mode) 
+![colorcheck1](colorcon1.jpg)
+
+![colorcheck2](colorcon2.jpg)
 
 
 

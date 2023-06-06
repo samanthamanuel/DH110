@@ -11,12 +11,15 @@ With Ingredients that Bind is an app that focuses on preserving family tradition
 # DESIGN STATEMENT 
 This quarter’s design challenge is to  discover a design challenge/problem/solution regarding "connected experience" - How might we connect family with digital technology?
 
-Requirements:
-1) The theme should be a family connection (remote or in-person) and connected experience
-2) Users should cover three generations (senior, mid-aged, and teen) = think how you connect with your parent or grandparent
-3) The target device is a "mobile" app - small screen. 
+**Requirements:**
+
+* The theme should be a family connection (remote or in-person) and connected experience
+* Users should cover three generations (senior, mid-aged, and teen) = think how you connect with your parent or grandparent
+* The target device is a "mobile" app - small screen. 
+
 
 My project focuses on preserving family traditions through recipe and food connections. For many Filipinos like me, my most cherished inheritance or heirlooms are the recipes that are passed down orally in the kitchen. Whenever I cook my Filipino food, it transforms into a moment of cultural-culinary, intergenerational connection– ever-changing rituals revised by each new generation. It helps me maintain a rootedness in my own cultural ancestry while living here in America as well as a connection to my family living in the Philippines, so I was curious to see if any apps existed to help preserve or share family recipes (or the potential of creating family memories).
+
 
 My project is meant to support users to engage with their parents, grandparents, or other family members through food connections and family history. I hope that through this project I can learn more about intergenerational and community connections through food– specifically intergenerational transmission and memory. I wish to understand how to engage family members in the kitchen as well as the attitudes, values, and practices towards food as an important vehicle for transmitting heritage and cultural meaning. By making these connections between family members, it could benefit to understand how a user’s memory/shared family history is provoked or embodied by food.
 
@@ -47,14 +50,17 @@ You can find more information on the heuristics [here](https://github.com/samant
 # USER RESEARCH
 In terms of the target audience for this app I was looking for the following: 
 
-Demographic: Users interested in food or looking to create more connections/conversations with their family. This is someone who really cares about food, loves to eat/cook. Their family places a lot of cultural value on cooking or eating together.
-Preference: Users prefer spending their time with friends/family, they are interested in engaging with them through food (sharing/eating different recipes).
-Expertise: No expertise in cooking or archiving is necessary for them to get started, just a genuine motivation to connect with family members.
-Mainstream vs. Extreme: Users will be more mainstream, as in, most people have a general interest in connecting with family or a general interest in food.
+*Demographic:* Users interested in food or looking to create more connections/conversations with their family. This is someone who really cares about food, loves to eat/cook. Their family places a lot of cultural value on cooking or eating together.
+
+*Preference:* Users prefer spending their time with friends/family, they are interested in engaging with them through food (sharing/eating different recipes).
+
+*Expertise:* No expertise in cooking or archiving is necessary for them to get started, just a genuine motivation to connect with family members.
+
+*Mainstream vs. Extreme:* Users will be more mainstream, as in, most people have a general interest in connecting with family or a general interest in food.
 
 For my own user research, I used qualitative research methods I employed were participatory observation and ethnographic research. My ethnographic research method involved observing my mother and sister interacting in the kitchen while cooking a family Filipino recipe. My participatory observation research included an interview with my sister who was taught the recipe by my mother, but who also fits the target demographic.  
 
-UX Findings: The participant  expressed the difficulty of remembering the details of recipes because there are no measurements or set proportions— simply estimations made by taste or eye. This made the potential of a digital cookbook an appealing solution to storing and sharing recipes among other family members. Furthermore, the idea of a digital cookbook template or something resembling a cookbook in a digital format would, according to the participant, provide feelings of familiarity and trust. It was also interesting to note that the participant also spoke about the potential of sharing recipes among friends who also have a similar priority or cultural value placed on food and family. One of the most important takeaways from this project was that the participant described the ideal cookbook as having the option to record (in photo and video) the process of cooking. Even being able to add updates or new tweaks to the recipe would speak more on the process of recipes being passed down to each generation, an iterative process changing to reflect the preferences of the person cooking it themself. Overall, this session was incredibly insightful and was a useful pairing to my ethnographic research in the kitchen.
+*UX Findings:* The participant  expressed the difficulty of remembering the details of recipes because there are no measurements or set proportions— simply estimations made by taste or eye. This made the potential of a digital cookbook an appealing solution to storing and sharing recipes among other family members. Furthermore, the idea of a digital cookbook template or something resembling a cookbook in a digital format would, according to the participant, provide feelings of familiarity and trust. It was also interesting to note that the participant also spoke about the potential of sharing recipes among friends who also have a similar priority or cultural value placed on food and family. One of the most important takeaways from this project was that the participant described the ideal cookbook as having the option to record (in photo and video) the process of cooking. Even being able to add updates or new tweaks to the recipe would speak more on the process of recipes being passed down to each generation, an iterative process changing to reflect the preferences of the person cooking it themself. Overall, this session was incredibly insightful and was a useful pairing to my ethnographic research in the kitchen.
 
 
 You can find more information on user research [here](https://github.com/samanthamanuel/DH110---Assignment03)
@@ -64,18 +70,22 @@ You can find more information on user research [here](https://github.com/samanth
 # UX STORYTELLING
 UX storytelling is important for sharing experiences and explaining the values that users hold. By carefully crafting stories, you can build a better product. Good UX storytelling considers potential conflicts a user may encounter when trying to reach a specific goal and provides a possible solution through your product. Understanding how this process works can help you emotionally connect with your users and the product will be more user-centric/empathic.
 
-Based on my previous research, I planned to add 2 design features that I believe will allow users to better navigate a digital cookbook project:
+
+**Based on my previous research, I planned to add 2 design features that I believe will allow users to better navigate a digital cookbook project:**
 * Ability to add multiple collaborators to one project
 * Ability to use a pre-existing template for recipe book page
+
 
 Here are the two personas I developed that would address the new added design features: 
 
 Nayeli Castro
-(Persona 1 image)
+![Nayeli](nperson.jpg)
+
 Nayeli just recently moved into her new apartment in Westwood (after living in the dorms for a year). She’s a second year at UCLA and originally from Texas where most of her family still resides. She has been feeling a bit homesick and misses a lot of her mother’s and grandmother’s home cooking. She never really learned how to cook for herself, so she struggles with grocery store shopping and cooking sustainable meals that get her through the week. She mostly eats instant ramen and quesadillas which are not the most balanced meals. Another problem is that she’s been feeling pretty weak with low energy. She finds herself falling asleep in between classes and struggling to walk through campus— she’s concerned that her poor diet is affecting her overall health.
 
 Alysha Macaraeg
-(Persona 2 image)
+![Alysha](aperson.jpg)
+
 Alysha’s dad just passed away unexpectedly due to a heart attack. She’s a chef at a famous Filipino Fusion Restaurant located in San Diego, but is currently at home taking a bereavement leave. This experience is making her think about her relationship with her family and food. Her dad supported her dream to become a chef and most of the dishes at the restaurant are inspired by her family’s recipes which were passed down to her from her parents. She also just realized, due to her busy schedule, that she hasn’t had the time to spend with her children to teach them more about Filipino recipes and their culture. 
 
 
@@ -86,7 +96,7 @@ You can find more information on UX storytelling [here](https://github.com/saman
 # LOW-FIDELITY PROTOTYPE
 The purpose of creating and then testing this low-fidelity prototype is to reevaluate the usability of the new features that I suggested to add to this application. It also allowed me to observe the user interact with the prototype in real-time while they communicate their thoughts aloud.
 
-The low-fidelity prototype I made supports the following tasks:
+**The low-fidelity prototype I made supports the following tasks:**
 * Create a New Project (YELLOW)
 * Send a Request/Add Collaborators (PURPLE)
 * Fill Pre-existing Template (GREEN)
@@ -106,14 +116,14 @@ Creating a high-fideility prototype was a culmination of all the research I cond
 
 Wireframe 
 (Insert photo here)
-To view the prototype wireflow click [here]()
+To view the prototype wireflow click [here](https://www.figma.com/file/4KN1fCa5r7IX7vht8ZwpEG/DH110---With-Ingredients-that-Bind?type=design&node-id=77%3A2488&t=EfLEXBEwfMzEC0Bf-1)
 
 You can find more information on the high-fidelity prototype [here](https://github.com/samanthamanuel/DH110-Assignment07)
 
 
 
 # FULL INTERACTIVE HIGH-FIDELITY PROTOTYPE 
-(embeded here)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4KN1fCa5r7IX7vht8ZwpEG%2FDH110---With-Ingredients-that-Bind%3Ftype%3Ddesign%26node-id%3D77%253A2488%26t%3DEfLEXBEwfMzEC0Bf-1" allowfullscreen></iframe>
 
 
 

@@ -130,6 +130,8 @@ You can find more information on the high-fidelity prototype [here](https://gith
 # FULL INTERACTIVE HIGH-FIDELITY PROTOTYPE 
 
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F4KN1fCa5r7IX7vht8ZwpEG%2FDH110---With-Ingredients-that-Bind%3Fnode-id%3D77-2526%26starting-point-node-id%3D77%253A2526" allowfullscreen></iframe>
+
 
 # WIREFRAME + GRAPHIC DESIGN ELEMENT
 Feedback from my target users through graphic design element variation and impression testing was crucial to deciding my overall design scheme and aesthetic. Doing this allowed me to integrate the most inclusive and intutive design choices. Here’s what I decided upon in order of Typeface, Color, and Spacing. 
